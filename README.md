@@ -41,7 +41,7 @@ I'm passionate about developing scalable, production-grade systems, solving real
 - **GATE 2025:** All India Rank 1,105
 - **GATE 2024:** All India Rank 6,696
 - **B.Tech CGPA:** 8.75
-- **Class XII:** 98%; district topper in Ghazipur
+- **Class XII:** 98%; District Topper (2021) in Ghazipur
 
 ---
 
@@ -51,7 +51,7 @@ I'm passionate about developing scalable, production-grade systems, solving real
 |---|---|---|
 | M.Tech, Computer Science and Engineering | Indian Institute of Technology (IIT) Bhubaneswar | 2025–2027 |
 | B.Tech, Computer Science and Engineering | Institute of Engineering and Rural Technology (IERT), Prayagraj | CGPA: 8.75/10 |
-| Class 12th | Shah Faiz Public School, Ghazipur | 98%; district topper in Ghazipur |
+| Class 12th | Shah Faiz Public School, Ghazipur | 98%; District Topper (2021) in Ghazipur |
 | Class 10th | Shah Faiz Public School, Ghazipur | 96.6% |
 
 ---
