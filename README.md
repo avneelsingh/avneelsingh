@@ -210,10 +210,6 @@ A desktop application for managing student-related records through a graphical i
   <img src="https://streak-stats.demolab.com?user=avneelsingh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avneelsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
