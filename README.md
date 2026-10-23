@@ -212,18 +212,6 @@ A desktop application for managing student-related records through a graphical i
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=avneelsingh&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub contribution graph"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, researchers, and students who enjoy building meaningful technology. Feel free to reach out for project collaborations, software development discussions, or opportunities in AI/ML.
