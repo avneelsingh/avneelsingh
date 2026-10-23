@@ -51,7 +51,8 @@ I'm passionate about developing scalable, production-grade systems, solving real
 |---|---|---|
 | M.Tech, Computer Science and Engineering | Indian Institute of Technology (IIT) Bhubaneswar | 2025–2027 |
 | B.Tech, Computer Science and Engineering | Institute of Engineering and Rural Technology (IERT), Prayagraj | CGPA: 8.75/10 |
-| Class XII | — | 98%; district topper in Ghazipur |
+| Class 12th | Shah Faiz Public School, Ghazipur | 98%; district topper in Ghazipur |
+| Class 10th | Shah Faiz Public School, Ghazipur | 96.6% |
 
 ---
 
