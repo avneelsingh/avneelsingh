@@ -221,7 +221,7 @@ I'm always interested in connecting with developers, researchers, and students w
 </p>
 
 <p align="center">
-  <i>"Great things are built one problem, one solution, and one line of code at a time."</i>
+  <i>"Success doesn’t come from what you do occasionally, it comes from what you do consistently."</i>
 </p>
 
 <p align="center">
