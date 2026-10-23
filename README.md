@@ -7,9 +7,9 @@
 <h3 align="center">M.Tech Computer Science & Engineering @ IIT Bhubaneswar</h3>
 
 <p align="center">
-  <a href="http://avneel-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1jL1DFWUw_4nBFJNJ4HmXM7qTfyQSgk1H/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:avneelsingh237@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="http://avneel-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1Hky5J2IhozqQIbRzEkwBDa4NGnmSXnrA/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="mailto:avneelsingh237@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
