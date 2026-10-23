@@ -178,9 +178,9 @@ A desktop application for managing student-related records through a graphical i
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://leetcode.com/u/avneelsingh/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/avneelsingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://codolio.com/profile/avneelsingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codolio-6C47FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
 </p>
 
 ---
@@ -190,8 +190,10 @@ A desktop application for managing student-related records through a graphical i
 <p align="left">
   <a href="https://github.com/avneelsingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/avneelsingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/avneel._.singh/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.x.com/avneelsingh_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.threads.net/@avneelsingh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://avneel-portfolio.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:avneelsingh237@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -228,4 +230,22 @@ I'm always interested in connecting with developers, researchers, and students w
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f3a5f&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>
+
+---
+
+### ☕ Support Me
+
+If you enjoy my projects or find my work helpful, consider supporting me!
+
+<ul style="list-style-type: none; margin: 0; padding: 0;">
+  <li style="display: inline-block; margin-right: 0.25rem;">
+    <a href="https://www.buymeacoffee.com/avneelsingh" target="_blank" rel="noreferrer">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" />
+    </a>
+  </li>
+</ul>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
