@@ -201,10 +201,10 @@ A desktop application for managing student-related records through a graphical i
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avneelsingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneelsingh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=avneelsingh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
